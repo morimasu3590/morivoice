@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B/1dqxyMu12V9tfOAkMEV6ay+TFM4++/AYDMeh2Wsx8=",
+  "Source": "Mori.Invoice.API",
+  "BasePath": "_content/Mori.Invoice.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

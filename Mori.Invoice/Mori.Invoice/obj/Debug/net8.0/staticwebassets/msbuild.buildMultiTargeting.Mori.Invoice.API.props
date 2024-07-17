@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mori.Invoice.API.props" />
+</Project>
